@@ -17,7 +17,7 @@ public class Game {
     public Game() {
         /* implementation not relevant */
     }
-
+  
     /** Returns true if this game is a bonus game 
      * and returns false otherwise */
     public boolean isBonus() {
